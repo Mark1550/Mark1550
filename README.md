@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mark1550
+- 👀 I’m interested in developing my programing and web developing skills and knowledge
+- 🌱 I’m currently learning React.js, css and other
+- 💞️ I’m looking to collaborate on React related projects
+- 📫 How to reach me email-markshmelo@gmail.com
